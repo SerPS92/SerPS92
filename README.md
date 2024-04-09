@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sergio Piñeiro Suárez</h1>
+<h3 align="center">A passionate backend developer from Spain</h3>
+
 <div>
   <img src="github-header-image (4).png">
 </div><br>
-
-<h1 align="center">Hi 👋, I'm Sergio Piñeiro Suárez</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
 
 <div>
   <h1>About me</h1>
